@@ -59,7 +59,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/mukkujagan/BITS-FSD-ASSIGNMENT.git
 Open 2 terminals.
 
 Terminal 1: Backend setup
